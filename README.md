@@ -1,25 +1,21 @@
 ## Read
 
-[FAQs](https://at.empayg.com/faqs)
+[FAQs](https://exyz.elfreds.com/faqs)
 
-[Documentation](https://at.empayg.com/docs)
+[Documentation](https://exyz.elfreds.com/docs)
 
-[Terms of Service](https://at.empayg.com/terms)
+[Terms of Service](https://exyz.elfreds.com/terms)
 
-[Privacy Policy](https://at.empayg.com/privacy)
-
-[Blog](https://empayg.blogspot.com)
+[Privacy Policy](https://exyz.elfreds.com/privacy)
 
 ##### Website
 
-[EMPAYG.com](https://empayg.com)
+[EXYZ.me](https://exyz.me)
 
 ##### Email
 
-[help@empayg.com](mailto:help@empayg.com)
+[exyz@elfreds.com](mailto:exyz@elfreds.com)
 
 ##### Social Accounts
 
-Twitter: [@EMPAYG](https://twitter.com/EMPAYG)
-
-Facebook: [@EMPAYG](https://facebook.com/EMPAYG)
+Twitter: [@exyzme](https://twitter.com/exyzme)
