@@ -24,7 +24,7 @@ If any provision or portion of this Agreement is held to be invalid or unenforce
 
 ### Usage
 
-Before using the Services, you (the “user”) must register with EMPAYG and create an account (an “EXYZ Account”).
+Before using the Services, you (the “user”) must register with EXYZ and create an account (an “EXYZ Account”).
 
 “Transactions” refers to any transfers between users where one party is consumer of the web service/content and the other party is provider of the same. EXYZ acts as a facilitator (and not mediator) of Transactions.
 
@@ -32,7 +32,7 @@ Before using the Services, you (the “user”) must register with EMPAYG and cr
 
 "EXYZ Assets" include any software (including without limitation the website, the API, developer tools, sample source code), data, materials, content, documentation, patents, copyrights (including rights in derivative works), moral rights, rights of publicity, trademarks or service marks, logos and designs, trade secrets, and other intellectual property developed and/or provided by us or our affiliates to you. You are granted a non-exclusive and non-transferable licence to electronically access and use the EXYZ Assets only in the manner described in this Agreement.
 
-EXYZ or its licensors exclusively own all rights, title, and interest in the EMPAYG Assets. EMPAYG reserves all rights in EMPAYG Assets not expressly granted to you in this Agreement.
+EXYZ or its licensors exclusively own all rights, title, and interest in the EXYZ Assets. EXYZ reserves all rights in EXYZ Assets not expressly granted to you in this Agreement.
 
 You may not, and may not attempt to, directly or indirectly:
 
@@ -136,7 +136,7 @@ Our Privacy Policy, which sets out the terms on which we process any personal da
 
 We use cookies across web locations where we provide our Services after you login and on our website irrespective of login. You consent to such usage by using our Services.
 
-EMPAYG collects, processes, stores, analyses, and manages Data to: (a) provide Services to you, other EXYZ users, and Customers; (b) mitigate fraud, financial loss, or other harm to users, Customers and EXYZ; and (c) analyse, develop and improve our products, systems, and tools. EXYZ provides Data to third-party service providers as well as EXYZ’s global affiliates, to allow us to provide Services to you and other users. You understand and consent to EXYZ’s use of Data for the purposes.
+EXYZ collects, processes, stores, analyses, and manages Data to: (a) provide Services to you, other EXYZ users, and Customers; (b) mitigate fraud, financial loss, or other harm to users, Customers and EXYZ; and (c) analyse, develop and improve our products, systems, and tools. EXYZ provides Data to third-party service providers as well as EXYZ’s global affiliates, to allow us to provide Services to you and other users. You understand and consent to EXYZ’s use of Data for the purposes.
 
 You will protect all Data you receive through the Services, and you may not disclose or distribute any such Data, and you will only use such Data in conjunction with the Services and as permitted by this Agreement or by other agreements between you and us. Neither party may use any Personal Data to market to Customers unless it has received the express consent from a specific Customer to do so.
 
@@ -154,7 +154,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 A user can be charged prior, during, or post usage of their EXYZ account on any partner website. The charge may be manual or automatic and the user shall notified via email for the same. We may maintain a prepaid balance to ensure all the Transactions created are paid. No interest is provided on balance maintained in your account.
 
-Any unused balance in your account is fully refundable. A request for refund may be treated as a request for account closure as a positive balance may be necessary to use our services in certain cases. In some cases, refunds may be available only on the payment method used for the last payment to your EMPAYG Account.
+Any unused balance in your account is fully refundable. A request for refund may be treated as a request for account closure as a positive balance may be necessary to use our services in certain cases. In some cases, refunds may be available only on the payment method used for the last payment to your EXYZ Account.
 
 In case of an unauthorised payment or mistake due to our error, we shall at your request refund the payment amount including all fees deducted by us.
 
@@ -192,8 +192,8 @@ You are responsible for any taxes which may be applicable to payments you make o
 
 By accepting the terms of this Agreement, you represent and warrant that: (a) you are eligible to register and use the Services and have the authority to execute and perform the obligations required by this Agreement; (b) any information you provide us is accurate and complete; (c) any Charges represent a Transaction for permitted products, services, or donations, and any related information accurately describes the Transaction; (d) you will fulfil all of your obligations to Customers and will resolve all Disputes with them; (e) you will comply with all Laws applicable to your business and use of the Services; (f) you will not use the Service, directly or indirectly, for any fraudulent or illegal undertaking, or to interfere in any manner with the normal operation of the Service.
 
-You agree to defend EXYZ, our affiliates, and their respective employees, agents, and service providers (each an “EXYZ Entity”) against any claim, suit, demand, loss, liability, damage, action, or proceeding (each, a “Claim”) brought by a third party against an EXYZ Entity, and you agree to fully reimburse the EMPAYG Entities for any Claims that result from: (i) your breach of any provision of this Agreement; (ii) any Fees, Fines, Disputes, Refunds, Reversals, Returns, or any other liability we incur that results from your use of Payment Services; (iii) negligent or wilful misconduct of your employees, contractors, or agents; or (iv) contractual or other relationships between you and Customers.
+You agree to defend EXYZ, our affiliates, and their respective employees, agents, and service providers (each an “EXYZ Entity”) against any claim, suit, demand, loss, liability, damage, action, or proceeding (each, a “Claim”) brought by a third party against an EXYZ Entity, and you agree to fully reimburse the EXYZ Entities for any Claims that result from: (i) your breach of any provision of this Agreement; (ii) any Fees, Fines, Disputes, Refunds, Reversals, Returns, or any other liability we incur that results from your use of Payment Services; (iii) negligent or wilful misconduct of your employees, contractors, or agents; or (iv) contractual or other relationships between you and Customers.
 
-You agree to limit any liability not disclaimed or denied by the EMPAYG Entities under this Agreement to your direct and documented damages; and you further agree that under no circumstances will any such liability exceed in the aggregate the amount of Fees paid by you to EMPAYG during the three-month period immediately preceding the event that gave rise to your claim for damages.
+You agree to limit any liability not disclaimed or denied by the EXYZ Entities under this Agreement to your direct and documented damages; and you further agree that under no circumstances will any such liability exceed in the aggregate the amount of Fees paid by you to EXYZ during the three-month period immediately preceding the event that gave rise to your claim for damages.
 
 These limitations on our liability to you will apply regardless of the legal theory on which your claim is based, including contract, tort (including negligence), strict liability, or any other theory or basis.
