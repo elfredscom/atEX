@@ -2,7 +2,7 @@
 
 **What is EXYZ?**
 
-EXYZ is a blogging platform that allows writers to create paid posts without an upfront paywall. Every blog has a monthly limit of USD 6 which is reache as a reader reads their paid posts for 3 hours in that month. No upfront charge but the charge is calculated based on the time duration for which reader reads the blog.
+EXYZ is a blogging platform that allows writers to create paid posts without an upfront paywall. Every blog has a monthly limit of USD 6 which is reached as a reader reads their paid posts for 3 hours in that month. No upfront charge but the charge is calculated based on the time duration for which reader reads the blog.
 
 **What to do to start using a EXYZ?**
 
@@ -10,7 +10,7 @@ Signup with EXYZ.
 
 To start reading, login with your account. In case of paid posts, you need to have balance in your wallet to open and read. The wallet balance can go upto a negative 50 cents.
 
-To start 
+To start writing, go to 'My Blog' from your homepage and create your first 'public' or 'paid' post!
 
 **What do I get when I login with EXYZ?**
 
