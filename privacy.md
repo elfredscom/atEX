@@ -1,8 +1,8 @@
-# EMPAYG Privacy Policy
+# EXYZ Privacy Policy
 
 This policy explains what you can expect from us and what we need from you in relation to your personal data. Please read this carefully as this policy is legally binding when you use any service provided by Elfreds Commerce LLP (the “Services”).
 
-For the purpose of the relevant data protection regulations, the body corporate in charge of your information is Elfreds Commerce LLP of India (LLPIN AAP-4592). If you have any questions, please email us at help@empayg.com.
+For the purpose of the relevant data protection regulations, the body corporate in charge of your information is Elfreds Commerce LLP of India (LLPIN AAP-4592). If you have any questions, please email us at exyz@elfreds.com.
 
 ### Information we may collect from you
 
@@ -22,9 +22,9 @@ You may give us information about you by filling in forms when registering or us
 
 ### Uses made of the information
 
-Your email address is necessary for identification, login, and recovery to EMPAYG account. We also use the provided email for necessary communication to you. You cannot opt out of such “transactional” and “functional” email (unless you delete your account).
+Your email address is necessary for identification, login, and recovery to EXYZ account. We also use the provided email for necessary communication to you. You cannot opt out of such “transactional” and “functional” email (unless you delete your account).
 
-Your financial information is necessary for enabling payments between EMPAYG and you. We keep record of sessions and transactions for providing usage statistics, error and dispute redressal, and similar applications.
+Your financial information is necessary for enabling payments between EXYZ and you. We keep record of sessions and transactions for providing usage statistics, error and dispute redressal, and similar applications.
 
 We do not process your personal information for marketing, profiling, or analytics. We collect, process, and store minimal data. Such data is essential for providing the Services. If you do not consent, you must not use the Services.
 
@@ -44,11 +44,11 @@ We use your information in the following ways:
 
 ### Disclosure of your information
 
-1. We may share your information with selected third parties including affiliates, business partners, suppliers, sub-processors and sub-contractors for the performance of any contract we enter into with them or you. Currently, EMPAYG uses Amazon Web Services as cloud service provider, and PayPal as payment processor.
+1. We may share your information with selected third parties including affiliates, business partners, suppliers, sub-processors and sub-contractors for the performance of any contract we enter into with them or you. Currently, EXYZ uses Amazon Web Services as cloud service provider, Coinbase as crypto payment processor, and Stripe as payment processor.
 
 2. We may disclose your personal information to third parties:
 
-(a) if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Customer Agreement and other applicable agreements; or to protect the rights, property, or safety of EMPAYG, our customers, or others;
+(a) if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Customer Agreement and other applicable agreements; or to protect the rights, property, or safety of EXYZ, our customers, or others;
 
 (b) to assist us in conducting or co-operating in investigations of fraud or other illegal activity where we believe it is reasonable and appropriate to do so;
 
@@ -56,15 +56,15 @@ The information that we collect from you may be transferred to, and stored at, a
 
 ### You rights over your personal information
 
-Most of the information we hold is available to you via website. You can request all the information by contacting us at help@empayg.com.
+Most of the information we hold is available to you via website. You can request all the information by contacting us at exyz@elfreds.com.
 
-You can delete all the personal information relating to your account, sessions, and transactions anytime using the option available on the website. However, some information (including payment history and information you submit to us while creating revenue id for your web service) may be preserved as required for business and legal purposes.
+You can delete all the personal information relating to your account, sessions, and transactions anytime using the option available on the website. However, some information (including payment history and information you submit to us while payments and payouts) may be preserved as required for business and legal purposes.
 
 ### How do we protect your personal information
 
 1. We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. All payments are secured by PCI Compliance. All information you provide to us is stored on our secure servers. Although we will do our best to protect your personal data, we cannot guarantee the security of your data from every breach. You should understand and accept the risks as you provide us with your personal information.
 
-2. We restrict access of your personal information to those employees of EMPAYG who have a business reason for knowing such information. We continuously educate and train our employees about the importance of confidentiality and privacy of customer information. We maintain physical, electronic and procedural safeguards that comply with the relevant laws and regulations to protect your personal information from unauthorised access.
+2. We restrict access of your personal information to those employees of EXYZ who have a business reason for knowing such information. We continuously educate and train our employees about the importance of confidentiality and privacy of customer information. We maintain physical, electronic and procedural safeguards that comply with the relevant laws and regulations to protect your personal information from unauthorised access.
 
 ### Cookies
 
@@ -78,4 +78,4 @@ Our Services may contain links to and from the websites of our partner networks,
 
 Any changes we may make to our privacy policy will be posted on this page and notified to you.
 
-If you feel that we have not addressed your questions or concerns adequately, kindly contact us at help@empayg.com
+If you feel that we have not addressed your questions or concerns adequately, kindly contact us at exyz@elfreds.com
