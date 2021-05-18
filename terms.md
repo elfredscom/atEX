@@ -172,7 +172,7 @@ We reserve the right to change the Payout Schedule or to suspend Payments to you
 
 ### Liability
 
-EXYZ is a facilitator and not a mediator. Readers have a direct relation with /blogsproviders. Both may have rights and liabilities towards each other that are available without intervention of EXYZ.
+EXYZ is a mediator. Readers are the readers of EXYZ and bloggers are the blogger for EXYZ. However, both may have rights and liabilities towards each other that are available without intervention of EXYZ.
 
 We have no control over websites linked to and from our Website. We assume no responsibility for their content or any loss or damage that may arise from your use of them.
 
