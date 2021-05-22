@@ -1,13 +1,19 @@
-#### Content
+### Brand
 
-You can contact us for your specific requirements at:
+**Logo**: We do not have a brand logo. Where a logo is required, we generally use words 'exyz', 'EXYZ', or 'exyz.me' (highlighted or otherwise). On social media accounts, we currently use images generated using https://thispersondoesnotexist.com/
 
-[help@empayg.com](mailto:help@empayg.com)
+**Pronunciation**: We pronounce the brand as 'X Y Z dot me' but you are free to devise something better.
 
-#### Social Accounts
+### Reach us
+
+You can contact us for our comments or your specific requirements at:
+
+[exyz@elfreds.com](mailto:exyz@elfreds.com) or [media@elfreds.com](mailto:media@elfreds.com)
+
+### Social Accounts
 
 Here are links to the offical social accounts:
 
-Twitter: [@EMPAYG](https://twitter.com/EMPAYG)
+Twitter: [@exyzme](https://twitter.com/exyzme)
 
-Facebook: [@EMPAYG](https://facebook.com/EMPAYG)
+Instagram: [@exyzme](https://instagram.com/exyzme)
