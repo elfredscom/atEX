@@ -4,6 +4,12 @@ EXYZ is a bootstrapped project of Ajay Chahal ([@ajch25](https://twitter.com/ajc
 
 Currently, EXYZ is in the process of being incorporated as a US C Corporation.
 
+**EXYZ advantage**
+
+EXYZ enables higher adoption for paid content due to lack of any upfront paywall. Even as a paid option, users are charged per their usage.
+
+Reader is charged at a rate but a monthly limit exists per blog. So any usage beyond the limit is not charged. Ideal because high value readers need to be encouraged with a fix amount of charge. Readers will be charged at the rate if their usage is less than standard.
+
 ### Funding 
 
 We are not actively seeking any round of funding at the moment but are instead focusing on adding features.
