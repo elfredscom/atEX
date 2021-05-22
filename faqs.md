@@ -2,7 +2,11 @@
 
 **What is EXYZ?**
 
-EXYZ is a blogging platform that allows writers to create paid posts without an upfront paywall. Every blog has a monthly limit of USD 6 which is reached as a reader reads their paid posts for 3 hours in that month. No upfront charge but the charge is calculated based on the time duration for which reader reads the blog.
+EXYZ is a blogging platform that allows writers to create paid posts without any upfront paywall. Users are charged based how much time they spend reading your blog upto 3 hours and a monthly charge of USD 6.
+
+**How does it work?**
+
+Readers add balance to their EXYZ Wallet and start reading paid posts. As they spend time on the post, money is transferred from reader's wallet to writer's wallet. 
 
 **What to do to start using a EXYZ?**
 
@@ -10,11 +14,21 @@ Signup with EXYZ.
 
 To start reading, login with your account. In case of paid posts, you need to have balance in your wallet to open and read. The wallet balance can go upto a negative 50 cents.
 
-To start writing, go to 'My Blog' from your homepage and create your first 'public' or 'paid' post!
+To start writing, go to 'My Blog' from your homepage and create your first 'public' or 'paid' post.
+
+**Units**
+
+All the transactions and payments are processed and presented in USD cents.
+
+All the session are tracked and charges calculated on the basis of duration for which blog is read in seconds.
+
+**EXYZ's Pricing**
+
+Please visit our [Pricing page](https://exyz.elfreds.com/pricing) for details information on pricing.
 
 **What do I get when I login with EXYZ?**
 
-That depends on the blogs you read and subscribe. Blogs can provide you with public posts (free to read),  or paid posts. The charge for paid post is not upfront but as you read on the blog. The monthly limit of charge per blog is USD 6. If your usage is 3 hours or more, you are charged 6 US Dollars. If your usage is less, your are charged proportionately less. 
+That depends on the blogs you read and subscribe. Blogs can provide you with public posts (free to read),  or paid posts. The charge for paid post is not upfront but as you read on the blog.
 
 **What to do if I find blog is not providing what I expected?**
 
@@ -22,7 +36,7 @@ If you find the blog or its post not valueable or misleading, you can stop readi
 
 **How do I know how much I am charged?**
 
-A charge is based of how much time (in seconds) you read a blog for. You can find your monthly read time and charge for different blogs in your EXYZ Wallet.
+A charge is based of how much time (in seconds) you read a blog for. You can find your monthly read time and charge for different blogs in your [EXYZ Wallet](https://exyz.me/wallet).
 
 **How does 6 Dollars 'cap' on blogs work?**
 
@@ -31,10 +45,6 @@ Blogs have a monthly limit on the charge. So you are only charged for the time d
 **What is the currency of charge?**
 
 All the charges and payments are processed and presented in USD cents only. This is done to standardise the charges and accounting. Kindly keep the comparative local pricing in mind while using any blog to estimate the cost and value of service to you.
-
-**Why am I required to keep a prepaid balance?**
-
-Prepaid balance is required to ensure that all the charges for blogs you read are paid. Alternative models increase the cost of providing the services, which are eventually borne by the paying users. Moreover, the unused prepaid balance is always refundable at the time of account closure.
 
 **Where are more of the FAQs?**
 
