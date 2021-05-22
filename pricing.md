@@ -24,7 +24,9 @@ Prepaid balance is required to ensure that all the charges for blogs you read ar
 
 ### EXYZ's commission
 
-If you are a writer, EXYZ makes a standard 10% deduction on your earnings. That is, for every 10 cents charged from the reader of your blog, 9 cents are credited to your account. This includes the payment processing charges. 
+If you are a writer, EXYZ makes a standard 10% deduction on your earnings. That is, for every 10 cents charged from the reader of your blog, 9 cents are credited to your account. This includes the payment processing charges.
+
+However, we estimate a 2% loss of sessions' data (partial or complete) due to disconnections, reporting and server errors, and other technical limitations. Such data may never reach us and we cannot process the same. Neither you nor we can receive any charge for such loss. Although, EXYZ employs best procedures to minimise such loss, we recommend you to account for same.
 
 ### Payouts
 
