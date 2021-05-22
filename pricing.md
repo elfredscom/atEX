@@ -12,6 +12,10 @@ Readers are charged full USD 6 if they read the blog for 3 hours or more in a mo
 
 The month starts on the first date for all the users.
 
+### Wallet balance
+
+Prepaid balance is required to ensure that all the charges for blogs you read are paid. Alternative models increase the cost of providing the services, which are eventually borne by the paying users. Moreover, the unused prepaid balance is always refundable at the time of account closure or when requested by you. 
+
 ### No Charges
 
 - Public posts are free to read.
@@ -20,7 +24,13 @@ The month starts on the first date for all the users.
 
 ### EXYZ's commission
 
-If you are a writer, EXYZ makes a standard 10% deduction on your earnings. That is, for every 10 cents charged from the reader of your blog, 9 cents are credited to your account. This includes the payment processing charges. Although we try to make the payouts without any additional charges, 
+If you are a writer, EXYZ makes a standard 10% deduction on your earnings. That is, for every 10 cents charged from the reader of your blog, 9 cents are credited to your account. This includes the payment processing charges. 
+
+### Payouts
+
+You can request for a payout by accessing your EXYZ account. We are in process to add automated payouts (using Stripe) for most of the writers in many geograpies. Currently payouts are processed manually by our team via direct bank transfers, Paypal, and Crypto.
+
+Although we try to make all the payouts without any additional charges, if you are based in a region or only have access to a payment method that is costlier for us to process than standard methods, we may require you to share part of additional costs. However, you can choose crypto payouts in such cases which are accessible to almost everyone.
 
 ### Future changes to pricing
 
