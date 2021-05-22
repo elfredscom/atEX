@@ -1,6 +1,6 @@
 ### Brand
 
-**Logo**: We do not have a brand logo. Where a logo is required, we generally use words 'exyz', 'EXYZ', or 'exyz.me' (highlighted or otherwise). On social media accounts, we currently use images generated using https://thispersondoesnotexist.com/
+**Logo**: We do not have a brand logo. Where a logo is required, we generally use words 'exyz', 'EXYZ', 'exyz.me', or Pineapple Color (#fee12b).
 
 **Pronunciation**: We pronounce the brand as 'X Y Z dot me' but you are free to devise something better.
 
