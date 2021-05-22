@@ -13,7 +13,7 @@ We currently have three big things in pipeline:
 - Ad-Supported Access,
 - and monetisation widget for websites!
 
-As target market, we seek to empower creators and publishers with flexible monetisation tools that can help them earn while reaching the widest audiences for their digital content (text or video).
+As our mission, we seek to empower creators and publishers with flexible monetisation tools that can help them earn while reaching the widest audiences for their digital content (text or video).
 
 ### Open Facts
 
