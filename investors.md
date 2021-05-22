@@ -9,7 +9,13 @@ Currently, EXYZ is in the process of being incorporated as a US C Corporation.
 We are not actively seeking any round of funding at the moment but are instead focusing on adding features.
 
 However, this project is a perfect fit for high growth and funding can certainly help us speed up the product development. 
-We currently have three big things in pipeline: Video Blogs, Ad-Supported Access, and monetisation widgets for websites!
+
+### Current Developments
+
+We currently have three big things in pipeline: 
+- Video Blogs,
+- Ad-Supported Access,
+- and monetisation widget for websites!
 
 As target market, we seek to empower creators and publishers with flexible monetisation tools that can help them earn and reach the widest audiences for their digital content (text or video).
 
