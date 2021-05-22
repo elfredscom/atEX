@@ -8,7 +8,7 @@
 
 You can contact us for our comments or your specific requirements at:
 
-[exyz@elfreds.com](mailto:exyz@elfreds.com) or [media@elfreds.com](mailto:media@elfreds.com)
+[exyz@elfreds.com](mailto:exyz@elfreds.com)
 
 ### Social Accounts
 
