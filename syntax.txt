@@ -1,6 +1,6 @@
 ## Basic Syntax
 
-These are the elements outlined in John Gruber’s original design document.
+EXYZ uses markdown. These are the elements outlined in John Gruber’s original design document.
 
 ### Heading
 
