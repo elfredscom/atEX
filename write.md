@@ -10,7 +10,7 @@ Most of the reading has turned to digital mediums and ad revenues have plummeted
 Readers have a lot of sources and they can't go around paying everyone of the publications $5 for subscription. 
 This can work for you if you can provide lots of content every month and have a large readership willing to pay for it (like NYT and Stratechery).
 
-On the other hand , publishers can't make everything available a few cents a month.
+If readers have the option to access paid content but only pay as much as they read, many more readers shall.
 
 #### How can EXYZ solve this?
 
