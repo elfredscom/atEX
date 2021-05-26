@@ -16,7 +16,7 @@ If readers have the option to access paid content but only pay as much as they r
 
 EXYZ allows reader to have a single account and subscribe/read multiple blogs. 
 If the reader reads only one or two of your posts in a month, they are charged a few cents in that month.
-If you post a lot (like a publication) and your readers read most of it (specifically, atleast 3 hours), you earn the full susbcription price.
+If you post a lot (like a publication) and your readers read most of it (specifically, atleast 3 hours), you earn the full subscription price.
 
 You earn from every one of your post. Your best writings (which most readers would value) need not be given out as 3 free articles per month or be accessible at a full subscription cost.
 If many people are willing to read just one of that trending piece, you better earn on that as much as you should.
