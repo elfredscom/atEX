@@ -22,7 +22,9 @@ You may give us information about you by filling in forms when registering or us
 
 ### Uses made of the information
 
-Your email address is necessary for identification, login, and recovery to EXYZ account. We also use the provided email for necessary communication to you. You cannot opt out of such “transactional” and “functional” email (unless you delete your account).
+Your email address is necessary for identification, login, and recovery to EXYZ account. We also use the provided email for necessary communication to you. You cannot opt out of such “transactional” and “functional” email (unless you delete your account). 
+
+For community building and to help you stay updated with new content on the platform, we may sign you up for our email newsletter to which you can unsubscribe by following the link in the email.
 
 Your financial information is necessary for enabling payments between EXYZ and you. We keep record of sessions and transactions for providing usage statistics, error and dispute redressal, and similar applications.
 
