@@ -2,7 +2,7 @@
 
 **What is EXYZ?**
 
-EXYZ is a publication platform that allows writers to create paid posts without any upfront paywall. Users are charged based how much time they spend reading your blog upto 3 hours and a monthly charge of USD 6.
+EXYZ is a publishing platform that allows writers to create paid posts without any upfront paywall. Users are charged based how much time they spend reading your blog upto 3 hours and a monthly charge of USD 6.
 
 **How does it work?**
 
@@ -15,6 +15,10 @@ Signup with EXYZ.
 To start reading, login with your account. In case of paid posts, you need to have balance in your wallet to open and read. The wallet balance can go upto a negative 50 cents.
 
 To start writing, go to your page from your homepage and create your first 'public' or 'paid' post.
+
+**What is the difference between frame and text posts?**
+
+Frames are video or html objects that publications can add. Although the text posts can be paid or free, frames are always paid for. The rate of charge for frames and text posts is same and total usage is counted when paying per publication.
 
 **Units**
 
