@@ -1,7 +1,7 @@
 #### What is EXYZ?
 
-EXYZ is a blogging platform where you can start a blog with $6 monthly subscriptions. But readers don't pay anything upfront. 
-Readers add money to their EXYZ wallet and as they spend time reading your blog posts, money starts to move to you. You can see details at [Pricing](https://exyz.elfreds.com/pricing).
+EXYZ is a publishing platform where you can start a page with $6 monthly subscriptions. But viewers don't pay anything upfront. 
+Viewers add money to their EXYZ wallet and as they spend time watching your posts, money starts to move to you. You can see details at [Pricing](https://exyz.elfreds.com/pricing).
 
 #### Why do this?
 
@@ -14,7 +14,7 @@ If readers have the option to access paid content but only pay as much as they r
 
 #### How can EXYZ solve this?
 
-EXYZ allows reader to have a single account and subscribe/read multiple blogs. 
+EXYZ allows reader to have a single account and subscribe/read multiple publications. 
 If the reader reads only one or two of your posts in a month, they are charged a few cents in that month.
 If you post a lot (like a publication) and your readers read most of it (specifically, atleast 3 hours), you earn the full subscription price.
 
@@ -22,12 +22,12 @@ You earn from every one of your post. Your best writings (which most readers wou
 If many people are willing to read just one of that trending piece, you better earn on that as much as you should.
 
 EXYZ aims to build a community. 
-Firstly, we aim to build a direct relation between the writers and readers (unlike social media curation) such that readers subscribe to blogs they value.
-Also, we provide some discovery features that can help blogs writing valuable content and readers willing to pay for it find each other.
+Firstly, we aim to build a direct relation between the writers and readers (unlike social media curation) such that readers subscribe to publications they value.
+Also, we provide some discovery features that can help publications writing valuable content and readers willing to pay for it find each other.
 
 EXYZ removes all the friction from subscriptions.
-Readers don't have to make separate payments or decide upfront whether to subscribe to any blog or pay for any post. 
-Instead, the money flows automatically when the real interaction between the blog and reader (that is reading) happens.
+Readers don't have to make separate payments or decide upfront whether to subscribe to any publication or pay for any post. 
+Instead, the money flows automatically when the real interaction between the publication and reader (that is reading) happens.
 
 #### Who is EXYZ for?
 
@@ -39,7 +39,7 @@ publishers don't have to compete for a piece of the pie, but can earn their own 
 #### How does EXYZ help?
 
 Instead of building notifications everywhere, 
-we build EXYZ to simply be a home to your posts like a blog but can you bring in your readers from Twitter, Facebook, Substack, and everywhere else by linking your posts there.
+we build EXYZ to simply be a home to your posts like a publication but can you bring in your readers from Twitter, Facebook, Substack, and everywhere else by linking your posts there.
 
 EXYZ only exists with your content. Instead of promoting things about us, we make our Twitter, Instagram, Facebook, Substack, and our ad campaigns about your posts, 
 things that people would love to read.
