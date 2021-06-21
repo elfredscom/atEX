@@ -14,7 +14,7 @@ The revenue growth is completely above the existing paywall revenue.
 #### Less burden per reader with higher conversion
 
 To grow revenue, higher conversion is tapped so readers can be more flexible with their usage. 
-This means higher subscription revenue even with an ARPU less than $1 in comparison to an ARPU of say $5 in case of paywall subscription.
+This means higher subscription revenue even with an Average Revenue Per Subscriber (ARPS) less than $1 in comparison to an ARPS of say $5 in case of paywall subscription.
 
 ![Revenue per user](https://user-images.githubusercontent.com/23114214/122714090-652e9600-d284-11eb-8fbd-8d58232c9451.png)
 
