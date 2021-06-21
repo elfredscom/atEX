@@ -3,6 +3,23 @@
 EXYZ is a publishing platform where you can start a page with $6 monthly subscriptions. But viewers don't pay anything upfront. 
 Viewers add money to their EXYZ wallet and as they spend time watching your posts, money starts to move to you. You can see details at [Pricing](https://exyz.elfreds.com/pricing).
 
+#### 5% Stop Rate
+
+95 % not paying for 5 articles. With EXYZ, this readership segment can help you earn much more.
+
+#### Growth over and above the existig paywall revenue
+
+The revenue growth is completely above the existing paywall revenue.
+
+#### Less burden per reader with higher conversion
+
+To grow revenue, higher conversion is tapped so readers can be more flexible with their usage. 
+This means higher subscription revenue even with an ARPU less than $1 in comparison to an ARPU of say $5 in case of paywall subscription.
+
+![Revenue per user](https://user-images.githubusercontent.com/23114214/122714090-652e9600-d284-11eb-8fbd-8d58232c9451.png)
+
+![Conversion Rate, Average Revenue per Subscriber in $, Total Revenue and Percent Growth over Paywall](https://user-images.githubusercontent.com/23114214/122714499-03baf700-d285-11eb-912c-5b1b7af464a0.png)
+
 #### Why do this?
 
 Most of the reading has turned to digital mediums and ad revenues have plummeted. The problem with paywalls is:
