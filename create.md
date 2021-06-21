@@ -3,9 +3,9 @@
 EXYZ is a publishing platform where you can start a page with $6 monthly subscriptions. But viewers don't pay anything upfront. 
 Viewers add money to their EXYZ wallet and as they spend time watching your posts, money starts to move to you. You can see details at [Pricing](https://exyz.elfreds.com/pricing).
 
-#### 5% Stop Rate
+#### 5% Stop Rate for Meter Paywalls
 
-95 % not paying for 5 articles. With EXYZ, this readership segment can help you earn much more.
+95% readers not paying for upto 5 articles they read (industry average). With EXYZ, this readership segment can help you earn much more.
 
 #### Growth over and above the existig paywall revenue
 
@@ -48,10 +48,10 @@ Instead, the money flows automatically when the real interaction between the pub
 
 #### Who is EXYZ for?
 
-We built EXYZ with independent bloggers, newsletter writers, and small publications in mind. 
+We built EXYZ with independent bloggers, newsletter writers, and publications in mind. 
 EXYZ is the home where you can build a community of readers who value your work by working alongside other publishers.
 Unlike an Apple News or a Medium.com subscription (no hard feeling for these beautiful platforms but their revenue model), 
-publishers don't have to compete for a piece of the pie, but can earn their own pie while helping the community grow as a whole ❤️.
+publishers don't have to compete for a piece of the pie, but can earn their own pie while helping the community grow as a whole.
 
 #### How does EXYZ help?
 
