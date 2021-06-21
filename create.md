@@ -18,7 +18,7 @@ This means higher subscription revenue even with an ARPU less than $1 in compari
 
 ![Revenue per user](https://user-images.githubusercontent.com/23114214/122714090-652e9600-d284-11eb-8fbd-8d58232c9451.png)
 
-![Conversion Rate, Average Revenue per Subscriber in $, Total Revenue and Percent Growth over Paywall](https://user-images.githubusercontent.com/23114214/122714499-03baf700-d285-11eb-912c-5b1b7af464a0.png)
+![Conversion Rate, Average Revenue per Subscriber in $, Total Revenue and Percent Growth over Paywall (1)](https://user-images.githubusercontent.com/23114214/122715037-ecc8d480-d285-11eb-9dfc-de7eb3b42129.png)
 
 #### Why do this?
 
