@@ -5,7 +5,7 @@ Viewers add money to their EXYZ wallet and as they spend time watching your post
 
 #### 5% Stop Rate for Meter Paywalls
 
-95% readers not paying for upto 5 articles they read (industry average). With EXYZ, this readership segment can help you earn much more.
+95% readers only read upto 5 articles that paywalls provide for free in a metered paywall (industry average). With EXYZ, this readership segment can help you earn much more.
 
 #### Growth over and above the existig paywall revenue
 
