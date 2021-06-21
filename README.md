@@ -10,8 +10,6 @@
 
 [Media](https://exyz.elfreds.com/media)
 
-[Investors](https://exyz.elfreds.com/investors)
-
 ##### Website
 
 [EXYZ.me](https://exyz.me)
