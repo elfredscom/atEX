@@ -46,7 +46,7 @@ We use your information in the following ways:
 
 ### Disclosure of your information
 
-1. We may share your information with selected third parties including affiliates, business partners, suppliers, sub-processors and sub-contractors for the performance of any contract we enter into with them or you. Currently, EXYZ uses Amazon Web Services as cloud service provider, Coinbase as crypto payment processor, Paypal and Stripe as payment processor.
+1. We may share your information with selected third parties including affiliates, business partners, suppliers, sub-processors and sub-contractors for the performance of any contract we enter into with them or you. Currently, EXYZ uses Amazon Web Services as cloud service provider, Coinbase as crypto payment processor, Paypal, Razorpay, and Stripe as payment processor.
 
 2. We may disclose your personal information to third parties:
 
@@ -72,7 +72,7 @@ You can delete all the personal information relating to your account, sessions, 
 
 We only use cookie to provide you with the essential functions of the Services. We may use such cookie not only on our website but also on webpages where you use our Services across partner service. We do not store cookies beyond session.
 
-However, our sub-processors may use cookies for effective provision of payments, hosting, and other necessary services. We do not use cookies for tracking, analytics, or profiling.
+However, our sub-processors may use cookies for effective provision of payments, hosting, and other necessary services. We use Google Analytics for analysing traffic on our site.
 
 ### Other provisions
 
